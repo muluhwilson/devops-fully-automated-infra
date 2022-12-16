@@ -2,6 +2,7 @@
 Fully automated and secured Terraform infra pipeline
 
 Testing the webhook and trigering the build.....
+The pipeline started already
 
 ## CICD Infra setup
 1) ###### GitHub setup
